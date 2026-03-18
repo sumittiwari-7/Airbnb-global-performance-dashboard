@@ -27,7 +27,7 @@ This project explores Airbnb's marketplace health across 10 major global cities 
 
 ## 🗂 Data Source
 
-**Source:** [Inside Airbnb](http://insideairbnb.com/) — publicly available dataset
+**Source:** [Inside Airbnb](https://mavenanalytics.io) — publicly available dataset
 
 | File | Description |
 |------|-------------|
